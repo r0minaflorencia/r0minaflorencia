@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Romina
-- 👀 I’m interested in programming and music production
+- 💻 I’m interested in programming and music production
 - 🌱 Currently learning Java
 - 🌎 Buenos Aires, Argentina
 - 📫 rflorencia.avalos@gmail.com
