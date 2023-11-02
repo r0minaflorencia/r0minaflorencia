@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Romina
 - 💻 I’m interested in programming and music production
-- 🌱 Currently learning Java
+- 🌱 Currently learning Java, OOP & MySQL
 - 🌎 Buenos Aires, Argentina
 - 📫 rflorencia.avalos@gmail.com
 
