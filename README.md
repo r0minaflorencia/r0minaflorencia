@@ -22,6 +22,7 @@
 ---
 
 ### 🌍 From Buenos Aires, Argentina
+👩‍💻​ Visit my portfolio: **[https://mi-portafolio-flax-gamma.vercel.app/]**
 📫 Feel free to reach out: **[rflorencia.avalos@gmail.com]**  
 🔗 Or connect with me on **[https://www.linkedin.com/in/romina-avalos]**
 
