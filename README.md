@@ -15,7 +15,7 @@
 ### 🛠 Tech Stack
 
 - 💖 Java (Spring Boot, Maven, JPA, etc.)
-- 🐬 MySQL
+- 🐘 PostgreSQL
 - 🌐 HTML/CSS, a bit of JS when needed
 - ☁️ Learning Docker & deployment workflows
 
